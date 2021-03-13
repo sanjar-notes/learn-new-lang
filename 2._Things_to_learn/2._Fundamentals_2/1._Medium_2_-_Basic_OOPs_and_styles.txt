@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-14T02:29:38+05:30
+
+====== 1. Medium 2 - Basic OOPs and styles ======
+Created Sunday 14 March 2021
+
+=== Cool features of the language ===
+[ ] String fields - aka f string, format strings
+[ ] List, set, dict comprehensions
+[ ] Spread operator
+[ ] Parallel assignment - unpacking, destructuring
+* Do a web search of "cool features of $lang"
+
+=== 4 Principles of OOP ===
+* Encapsulation - decrease arguments for methods(aka functions)
+* Abstraction - hide details(of dependencies/components)
+* Inheritance - code reuse(for objects with common ancestors)
+* Polymorphism - Runtime
+
+=== Basic OOP ===
+* Not required for a coding interview, unless the language is very important.
+[ ] Class syntax
+[ ] Has access modifiers? if yes what are the types. If no, how is abstraction achieved.
+[ ] Fields
+[ ] ''this'' keyword
+[ ] Access notation: functions/fields
+[ ] Basic constructor(default+parameterized)
+[ ] Creating objects
+[ ] Methods
+[ ] Destructor
+[ ] Copy constructor, copy assignment operator
+
+=== Intermediate OOP ===
+[ ] Static fields and methods - shared properties/free functions.
+[ ] Function overloading - makes code streamlined.
+[ ] Single(parent) inheritance
+[ ] Multilevel inheritance

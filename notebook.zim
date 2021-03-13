@@ -1,0 +1,11 @@
+[Notebook]
+version=0.4
+name=Learn a new Programming Lang
+interwiki=
+home=Home
+icon=
+document_root=
+shared=True
+endofline=unix
+disable_trash=False
+

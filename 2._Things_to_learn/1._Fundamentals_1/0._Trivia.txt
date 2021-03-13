@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.6
+Creation-Date: 2021-03-13T20:39:48+05:30
+
+====== 0. Trivia ======
+Created Saturday 13 March 2021
+
+Time required - 5 to 10 minutes. 
+Instruction: 
+* Read the Wikipedia page for the language. Don't worry about the questions.
+* Understand the stuff, you don't have to remember it.
+* Answer the question and parts of the page discussing it again.
+
+=== Basic criteria ===
+[ ] General purpose or not - HTML vs C++
+[ ] Low level or High level
+[ ] Supported programming paradigms
+[ ] Syntax - C style, Python, Functional, mixed
+[ ] Compiled or Interpeted(has JIT mode)
+[ ] Has a REPL - easy playground
+[ ] Dynamically or statically typed - Data type
+[ ] Garbage collector
+[ ] Typical usage
+[ ] Speed and memory consumption
+[ ] Library support
+[ ] Philosophy of the language
+
+=== Purpose of the language ===
+[ ] Read the history.
+[ ] Problem(s) it solves.
+
+=== Uses ===
+[ ] List out the uses, popular apps.
+[ ] Recent apps.
+
+[ ] What the language was not designed for
+
+=== Influences(both ways) ===
+[ ] Find langs that influenced this lang.
+[ ] Find out langs influenced by this lang.
+
+=== Extras ===
+[ ] Watch small videos from some trustable source.
