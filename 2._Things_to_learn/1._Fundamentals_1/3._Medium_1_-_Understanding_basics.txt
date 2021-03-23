@@ -30,6 +30,8 @@ State
 [ ] How to get universal equivalent, maybe string.
 [ ] Equality - reference based vs value(bit-by-bit) based. ''is'' vs ''=='' in Python.
 [ ] Ternary operator
+[ ] type aka typeof operator.
+[ ] sizeof operator
 
 === 4. Functions ===
 [ ] Parameter passing implementation

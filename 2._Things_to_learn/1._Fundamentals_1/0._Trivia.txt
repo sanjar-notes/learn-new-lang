@@ -5,11 +5,11 @@ Creation-Date: 2021-03-13T20:39:48+05:30
 ====== 0. Trivia ======
 Created Saturday 13 March 2021
 
-Time required - 5 to 10 minutes. 
-Instruction: 
-* Read the Wikipedia page for the language. Don't worry about the questions.
+Time for this section - 5 to 10 minutes.
+Instruction:
+* Read the Wikipedia page for the language. Don't worry about the questions, below.
 * Understand the stuff, you don't have to remember it.
-* Answer the question and parts of the page discussing it again.
+* Answer the questions and observe parts of the page when doing it.
 
 === Basic criteria ===
 [ ] General purpose or not - HTML vs C++

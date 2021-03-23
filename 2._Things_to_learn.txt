@@ -5,3 +5,4 @@ Creation-Date: 2021-03-14T05:17:04+05:30
 ====== 2. Things to learn ======
 Created Sunday 14 March 2021
 
+FIXME: provide procedure for learning

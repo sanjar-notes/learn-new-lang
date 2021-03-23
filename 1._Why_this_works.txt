@@ -16,8 +16,10 @@ Created Saturday 13 March 2021
 
 === Some facts ===
 * All programs are a series of small steps.
-* Consequently, there are three kinds of atomic instructions in any language:
+* Consequently, there are 4 kinds of instruction patterns in any language:
 	1. Sequential step: calculation, read/write(assignment).
 	2. Selective step, checks condition(true/false).
 	3. Iterative step, loops for a certain time or until a condition is met.
-* Of course, every modern language has a lot of features besides this, because the goal is to make "high-level" languages.
+	4. Store and reuse for both data and code. e.g. variables, functions, classes, modules etc. See [[https://en.wikipedia.org/wiki/Don%27t_repeat_yourself|DRY]]
+
+* Of course, every modern language has a lot of features of each type, because the goal is to make "high-level" languages.

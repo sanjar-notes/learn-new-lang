@@ -9,12 +9,13 @@ To get familiar with the syntax and basic constructs of the program.
 * Keep documentation ready but don't read it completely. There is a chance that you just remember stuff temporarily.
 [ ] Solve a lot(>50) of algorithm problems of different types.
 * Don't worry about code quality, atleast intially.
+* Read this page and tick the bullets when you learn it.
 
 === 1. Standard Output ===
 [ ] Hello world
 
 === 2. Starting point of programs ===
-Observe the starting point of a program - Does it have a ''main'' or not.
+[ ] Observe the starting point of a program - Does it have a ''main'' or not. If yes, try to undertstand the structure.
 
 === 3. Variables ===
 [ ] How to declare/initailize variables
@@ -30,13 +31,13 @@ Observe the starting point of a program - Does it have a ''main'' or not.
 	[ ] Truncation?
 	[ ] Interaction of integer and float
 [ ] Equality and comparison ops
-[ ] Basical logical ops - AND, OR, NOT. Is XOR present?
-[ ] Exponentiation - try both operator or functional.
+[ ] Basical logical ops - AND, OR, NOT.
+[ ] Exponentiation - check the power function. See if an operator(like **) is there.
 [ ] String concatenation
 [ ] Bitwise ops, with shifting
 
 === 5. Code structure ===
-[ ] brace or space delimited?
+[ ] brace or whitespace delimited?
 [ ] Comments - single and multiline.
 
 === 6. Conditionals ===

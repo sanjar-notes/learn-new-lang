@@ -6,6 +6,7 @@ Creation-Date: 2021-03-14T02:02:39+05:30
 Created Sunday 14 March 2021
 
 Assumption - you know only about basic conditionals, global variables, loops etc.
+* Continue solving probelms.
 
 === Variables ===
 [ ] How are variables stored in memory?
