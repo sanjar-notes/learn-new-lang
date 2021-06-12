@@ -15,7 +15,7 @@ So it's more *fun*, *easy* and *efficient* to just reuse parts of that abstract 
 ### How to use
 1. Download the folder.
 2. Download [Zim](https://www.zim-wiki.org). *it's a lightweight notebook tool. Works on Windows, Linux and Mac.*
-3. Open the `notebook.zim` file.
+3. Open the `notebook.zim` file with Zim.
 4. Start hacking...🎮️
 
 #### Try with your favorite lang today
