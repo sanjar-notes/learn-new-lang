@@ -13,9 +13,6 @@ So it's more *fun*, *easy* and *efficient* to just reuse parts of that abstract 
 **Don't worry about this explanation if it sounds irrelevant to you🤗️ or if my words are too techy/yucky.**
 
 ### How to use
-1. Download the folder.
-2. Download [Zim](https://www.zim-wiki.org). *it's a lightweight notebook tool. Works on Windows, Linux and Mac.*
-3. Open the `notebook.zim` file with Zim.
-4. Start hacking...🎮️
+View here on GitHub or clone.
 
 #### Try with your favorite lang today
