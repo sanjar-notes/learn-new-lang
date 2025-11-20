@@ -1,4 +1,6 @@
-**Assumption**: You know the usual concepts of programming - loops, conditionals etc.
+Update: Solve easy LeetCode questions with the language you want to learn.
+This repo is irrelevant now.
+~~**Assumption**: You know the usual concepts of programming - loops, conditionals etc.~~
 
 ### Why
 It's stupid to learn a language from scratch (or from a beginner course).
@@ -16,3 +18,4 @@ So it's more *fun*, *easy* and *efficient* to just reuse parts of that abstract 
 View here on GitHub or clone.
 
 #### Try with your favorite lang today
+~~
